@@ -1,2 +1,2 @@
 # pytorch_code
-A collection practice of pytorch code
+A practice collection of pytorch code
